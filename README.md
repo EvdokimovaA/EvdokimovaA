@@ -13,7 +13,6 @@
   </ul>  
   
   <h2>💻 My Stack</h2>
-
   <h3>Backend</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp
@@ -40,6 +39,9 @@
     </a>
     <a href="https://vk.com/nastya_varilla">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="50" height="50"/>
+    </a>
+    <a href="mailto:evdokimova.anastasiya02@gmail.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" height="50"/>
     </a>
 
   <h2>Some Statistics</h2>
