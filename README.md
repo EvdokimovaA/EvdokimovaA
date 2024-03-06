@@ -47,8 +47,7 @@
   
   <h2>Some Statistics</h2>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvdokimovaA&theme=algolia" width="1000"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvdokimovaA&theme=algolia" width="500"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvdokimovaA&theme=algolia" width="500"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvdokimovaA&theme=algolia" width="500"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvdokimovaA&theme=algolia" width="500"/>
 </div>
 <!--
 **EvdokimovaA/EvdokimovaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
