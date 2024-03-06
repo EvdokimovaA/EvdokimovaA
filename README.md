@@ -7,6 +7,8 @@
 <div class='about_me'>
   <h2>👩🏼‍🎓 About me</h2>
   <ul>
+    graduate of the "advanced python" course
+    <li>😎 Graduate of the "Deep Python" course from VK Education
     <li>💀 I’m currently studying at <a href='https://etu.ru/'>St. Petersburg State Electrotechnical University</a> in Computer Security</li>
     <li>🔭 I’m currently working on my <a href='https://github.com/EvdokimovaA/teammate_finder_backend'>Teammate finder website</a></li>
     <li>📝 I’m currently learning Django 4 and Django Rest Framework</li>
@@ -35,15 +37,15 @@
 
   <h2>Connect with me</h2>
     <a href="https://t.me/nastya_varilla">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60"/>
     </a>
     <a href="https://vk.com/nastya_varilla">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="50" height="50"/>
-    </a>
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="60" height="60"/>
+    </a><br>
     <a href="mailto:evdokimova.anastasiya02@gmail.com">
-      <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="50" height="50"/>
-    </a>
-
+      <img src="https://img.shields.io/badge/-evdokimova.anastasiya02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height="30" alt="Gmail Badge"/>
+    </a><br>
+  
   <h2>Some Statistics</h2>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvdokimovaA&theme=algolia" width="1000"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvdokimovaA&theme=algolia" width="500"/>
