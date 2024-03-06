@@ -7,7 +7,6 @@
 <div class='about_me'>
   <h2>👩🏼‍🎓 About me</h2>
   <ul>
-    graduate of the "advanced python" course
     <li>😎 Graduate of the "Deep Python" course from VK Education
     <li>💀 I’m currently studying at <a href='https://etu.ru/'>St. Petersburg State Electrotechnical University</a> in Computer Security</li>
     <li>🔭 I’m currently working on my <a href='https://github.com/EvdokimovaA/teammate_finder_backend'>Teammate finder website</a></li>
