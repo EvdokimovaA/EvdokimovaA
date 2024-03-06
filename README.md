@@ -6,7 +6,11 @@
 
 <div class='about_me'>
   <h2>👩🏼‍🎓 About me</h2>
-  I study at <a href='https://etu.ru/'>St. Petersburg State Electrotechnical University</a> in Computer Security
+  <ul>
+    <li>💀 I’m currently studying at <a href='https://etu.ru/'>St. Petersburg State Electrotechnical University</a> in Computer Security</li>
+    <li>🔭 I’m currently working on my <a href='https://github.com/EvdokimovaA/teammate_finder_backend'>Teammate finder website</a></li>
+    <li>📝 I’m currently learning Django 4 and Django Rest Framework</li>
+  </ul>  
   
   <h2>💻 My Stack</h2>
 
@@ -28,9 +32,20 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="40" height="40"/><br>
 
+  <h2>Connect with me</h2>
+    <a href="https://t.me/nastya_varilla">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50"/>
+    </a>
+    <a href="https://vk.com/nastya_varilla">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="50" height="50"/>
+    </a>
 
+  <h2>Some Statistics</h2>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvdokimovaA&theme=algolia" width="1000"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvdokimovaA&theme=algolia" width="500"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvdokimovaA&theme=algolia" width="500"/>
 </div>
 <!--
 **EvdokimovaA/EvdokimovaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
